@@ -1,0 +1,10 @@
+d:\Workspace\Appeal.It.Asp\bin\Debug\netcoreapp2.0\Appeal.It.Asp.deps.json
+d:\Workspace\Appeal.It.Asp\bin\Debug\netcoreapp2.0\Appeal.It.Asp.runtimeconfig.json
+d:\Workspace\Appeal.It.Asp\bin\Debug\netcoreapp2.0\Appeal.It.Asp.runtimeconfig.dev.json
+d:\Workspace\Appeal.It.Asp\bin\Debug\netcoreapp2.0\Appeal.It.Asp.dll
+d:\Workspace\Appeal.It.Asp\bin\Debug\netcoreapp2.0\Appeal.It.Asp.pdb
+d:\Workspace\Appeal.It.Asp\obj\Debug\netcoreapp2.0\Appeal.It.Asp.csproj.CoreCompileInputs.cache
+d:\Workspace\Appeal.It.Asp\obj\Debug\netcoreapp2.0\Appeal.It.Asp.AssemblyInfoInputs.cache
+d:\Workspace\Appeal.It.Asp\obj\Debug\netcoreapp2.0\Appeal.It.Asp.AssemblyInfo.cs
+d:\Workspace\Appeal.It.Asp\obj\Debug\netcoreapp2.0\Appeal.It.Asp.dll
+d:\Workspace\Appeal.It.Asp\obj\Debug\netcoreapp2.0\Appeal.It.Asp.pdb
