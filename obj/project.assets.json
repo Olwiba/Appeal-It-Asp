@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Workspace\\Appeal.It.Asp\\Appeal.It.Asp.csproj",
+      "projectUniqueName": "D:\\Workspace\\Appeal.It.Asp\\Appeal.It.Asp.csproj",
       "projectName": "Appeal.It.Asp",
-      "projectPath": "d:\\Workspace\\Appeal.It.Asp\\Appeal.It.Asp.csproj",
+      "projectPath": "D:\\Workspace\\Appeal.It.Asp\\Appeal.It.Asp.csproj",
       "packagesPath": "C:\\Users\\Ollie\\.nuget\\packages\\",
-      "outputPath": "d:\\Workspace\\Appeal.It.Asp\\obj\\",
+      "outputPath": "D:\\Workspace\\Appeal.It.Asp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
