@@ -12,8 +12,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-postcss": "^0.8.0",
     "grunt-sass": "^1.2.0",
-    "grunt-contrib-uglify": "3.0.1",
-    "grunt-kss-node": "^1.0.3"
+    "grunt-contrib-uglify": "3.0.1"
   },
   "devDependencies": {
     "grunt-contrib-clean": "^1.1.0",
