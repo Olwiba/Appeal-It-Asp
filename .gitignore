@@ -4,7 +4,7 @@ idea
 .idea
 
 # Cache busted files
-src/Public/Mindscape.Raygun.Public/dist/**/*
+wwwroot/dist/**/*
 
-# React Dist
-src/App/Mindscape.Raygun.Website/dist/*.js
+# Node modules
+node_modules/**
