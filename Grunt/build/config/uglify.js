@@ -11,6 +11,8 @@
         files: {
           // To add js bundle files use the following format:
           // '{destination} : ['{file to bundle}', '{another file}', '!{exclude these files}']'
+
+          'wwwroot/dist/dev/scripts/vendor/bundle.min.js' : ['scripts/vendor/**/*']
         }
       }
     }
