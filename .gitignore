@@ -1,0 +1,10 @@
+# IDE generated folders
+.vscode
+idea
+.idea
+
+# Cache busted files
+src/Public/Mindscape.Raygun.Public/dist/**/*
+
+# React Dist
+src/App/Mindscape.Raygun.Website/dist/*.js
