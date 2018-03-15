@@ -1,6 +1,9 @@
-@import "_reset";
+@import "_reset.scss";
 
 // apply box layout model to all elements
 *, *:before, *:after {
     -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
+
+// Vendor styles
+@import "vendor/_foundation-grid.scss"
